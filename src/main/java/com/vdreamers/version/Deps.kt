@@ -17,7 +17,7 @@ enum class Deps {
 
         private const val CONSTRAINT_LAYOUT_VERSION = "2.0.4"
         const val CONSTRAINT_LAYOUT =
-            "androidx.constraintlayout:constraintlayout:$CONSTRAINT_LAYOUT_VERSION"
+                "androidx.constraintlayout:constraintlayout:$CONSTRAINT_LAYOUT_VERSION"
 
     }
 
